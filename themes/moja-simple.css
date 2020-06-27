@@ -4,11 +4,11 @@
 */
 
 /* M PLUS 1p from Google Fonts */
-@import 'https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500&display=swap&subset=japanese';
-@import 'default';
+@import "https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500&display=swap&subset=japanese";
+@import "default";
 
 section {
-  font-family: 'M PLUS 1p';
+  font-family: "M PLUS 1p";
   font-weight: 400;
   font-size: 20pt;
 
@@ -27,12 +27,15 @@ h1 {
 
 h2 {
   color: black;
-  font-size:  1.5em;
+  font-size: 1.5em;
   font-weight: 500;
 }
 
-h3, h4, h5, h6 {
-  font-size:  1em;
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1em;
   font-weight: 500;
 }
 

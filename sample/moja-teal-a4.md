@@ -6,6 +6,7 @@ theme: moja-teal-a4
 <!-- _class: cover -->
 
 # marp 'moja-teal' theme
+
 ## theme sample slide
 
 ---

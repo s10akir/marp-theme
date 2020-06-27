@@ -4,12 +4,12 @@
 */
 
 /* M PLUS 1p from Google Fonts */
-@import 'https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap&subset=japanese';
-@import 'default';
+@import "https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap&subset=japanese";
+@import "default";
 
 section {
   color: saddlebrown;
-  font-family: 'Noto Sans JP';
+  font-family: "Noto Sans JP";
   font-weight: 400;
   font-size: 20pt;
 
@@ -19,7 +19,7 @@ section {
   padding: 40px;
 
   background-color: lemonchiffon;
-  background-image: url('https://user-images.githubusercontent.com/34061817/85927279-fa03eb00-b8df-11ea-8fc1-1d213c539b9d.png');
+  background-image: url("https://user-images.githubusercontent.com/34061817/85927279-fa03eb00-b8df-11ea-8fc1-1d213c539b9d.png");
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 32%;
@@ -33,9 +33,9 @@ h1 {
 }
 
 h1::before {
-  content: '';
+  content: "";
   display: inline-block;
-  background-image: url('https://twemoji.maxcdn.com/2/svg/1f34a.svg');
+  background-image: url("https://twemoji.maxcdn.com/2/svg/1f34a.svg");
   margin: 0 0.1em;
   width: 1em;
   height: 1em;
@@ -44,13 +44,16 @@ h1::before {
 
 h2 {
   color: chocolate;
-  font-size:  1.5em;
+  font-size: 1.5em;
   font-weight: bold;
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
   color: chocolate;
-  font-size:  1em;
+  font-size: 1em;
   font-weight: bold;
 }
 
@@ -60,7 +63,8 @@ em {
   font-style: normal;
 }
 
-pre, code {
+pre,
+code {
   border: solid 2px orange;
   border-radius: 10px;
   background-color: moccasin;
