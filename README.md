@@ -2,6 +2,22 @@
 
 marpの自作themeまとめておくリポジトリ
 
+## how to use
+
+### VSCode
+1. install `Marp for VS Code` extension
+1. open this repository in VS Code
+1. create new markdown document
+1. write theme section on top
+   e.g.
+   ```yaml
+   ---
+   marp: true
+   theme: moja-teal
+   ---
+   ```
+1. write now
+
 ## themes
 
 * [moja-teal](https://s10akir.github.io/marp-theme/moja-teal)
