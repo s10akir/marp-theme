@@ -15,7 +15,7 @@ theme: moja-simple
 
 ## this is sample slide.
 
-overwrite theme section on `index.md` if you can see other theme
+overwrite theme section on `index.md` if you want see other theme
 
 ```yaml
 ---
