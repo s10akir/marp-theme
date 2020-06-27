@@ -1,6 +1,7 @@
 {
     "markdown.marp.enableHtml": true,
     "markdown.marp.themes": [
+        "./themes/moja-citrus.css",
         "./themes/moja-simple.css",
         "./themes/moja-simple-a4.css",
         "./themes/moja-teal.css",
