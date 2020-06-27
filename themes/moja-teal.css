@@ -1,0 +1,78 @@
+/*
+@theme moja-teal
+@author Akira Shinohara
+*/
+
+/* M PLUS 1p from Google Fonts */
+@import 'https://fonts.googleapis.com/css?family=M+PLUS+1p:400,700&display=swap&subset=japanese';
+@import 'default';
+
+section {
+  font-family: 'M PLUS 1p';
+  font-size: 20pt;
+
+  width: 1280px;
+  height: 720px;
+  justify-content: normal;
+
+  padding: 40px;
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+  border-bottom: solid 8px orange;
+
+  background-color: teal;
+  padding: 20px;
+}
+
+h2 {
+  font-size:  1.5em;
+  font-weight: bold;
+}
+
+h3, h4, h5, h6 {
+  font-size:  1em;
+  font-weight: bold;
+}
+
+em {
+  color: orange;
+  font-style: normal;
+  font-weight: bold;
+}
+
+pre {
+  padding: 20px;
+  border: solid 2px teal;
+  background-color: white;
+  border-radius: 5px;
+}
+
+code {
+  border: solid 2px teal;
+  background-color: white;
+  border-radius: 5px;
+}
+
+section.cover {
+  justify-content: center;
+  text-align: center;
+
+  color: white;
+  background-color: teal;
+}
+
+section.cover > h1 {
+  margin: 0px;
+  font-size: 3em;
+  border-bottom: solid  4px orange;
+}
+
+section.cover > h2 {
+  margin: 0px;
+  font-size: 2.5em;
+}
