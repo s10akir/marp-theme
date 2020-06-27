@@ -1,0 +1,51 @@
+/*
+@theme moja-simple
+@author Akira Shinohara
+*/
+
+/* M PLUS 1p from Google Fonts */
+@import 'https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500&display=swap&subset=japanese';
+@import 'default';
+
+section {
+  font-family: 'M PLUS 1p';
+  font-weight: 400;
+  font-size: 20pt;
+
+  width: 1280px;
+  height: 720px;
+  justify-content: normal;
+
+  padding: 40px;
+}
+
+h1 {
+  color: black;
+  font-size: 2em;
+  font-weight: 500;
+}
+
+h2 {
+  font-size:  1.5em;
+  font-weight: 500;
+}
+
+h3, h4, h5, h6 {
+  font-size:  1em;
+  font-weight: 500;
+}
+
+section.cover {
+  justify-content: center;
+  text-align: center;
+}
+
+section.cover > h1 {
+  margin: 0px;
+  font-size: 3em;
+}
+
+section.cover > h2 {
+  margin: 0px;
+  font-size: 2.5em;
+}

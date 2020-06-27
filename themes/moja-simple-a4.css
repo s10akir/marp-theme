@@ -1,0 +1,33 @@
+/*
+@theme moja-simple-a4
+@author Akira Shinohara
+*/
+
+@import 'moja-simple';
+
+section {
+  font-size: 13pt;
+
+  width: 210mm;
+  height: 297mm;
+  justify-content: normal;
+
+  padding: 40px;
+  background-color: white;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+section.cover > h1 {
+  font-size: 3rem;
+}

@@ -20,6 +20,8 @@ marpの自作themeまとめておくリポジトリ
 
 ## themes
 
+* [moja-simple](https://s10akir.github.io/marp-theme/moja-simple)
+* [moja-simple-a4](https://s10akir.github.io/marp-theme/moja-simple-a4)
 * [moja-teal](https://s10akir.github.io/marp-theme/moja-teal)
 * [moja-teal-a4](https://s10akir.github.io/marp-theme/moja-teal-a4)
 
