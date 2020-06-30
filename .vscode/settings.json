@@ -5,6 +5,7 @@
         "./themes/moja-simple.css",
         "./themes/moja-simple-a4.css",
         "./themes/moja-teal.css",
-        "./themes/moja-teal-a4.css"
+        "./themes/moja-teal-a4.css",
+        "./themes/moja-gecko.css"
     ]
 }
