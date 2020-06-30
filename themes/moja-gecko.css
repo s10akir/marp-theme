@@ -8,7 +8,7 @@
 @import "default";
 
 section {
-  background-color:#f2f2f2;
+  background-color: #f2f2f2;
   justify-content: normal;
   font-size: 20pt;
   padding: 100px;
@@ -36,7 +36,7 @@ strong {
 section.cover {
   justify-content: center;
   text-align: center;
-  background: #9bafb5;
+  background-color: #9bafb5;
 }
 
 section.cover h1 {
@@ -50,21 +50,21 @@ section.cover h2 {
   font-weight: normal;
 }
 
-section.back_cover {
-  background-color:#f6a21d;
+section.back-cover {
+  background-color: #f6a21d;
   text-align:center;
   padding: 20px;
   margin: none;
 }
 
-section.back_cover h2 {
+section.back-cover h2 {
   color: black;
   font-size: 36pt;
   font-weight: 700;
   border-bottom: none;
 }
 
-section.back_cover img {
+section.back-cover img {
   width: 70%;
   height: auto;
 }
