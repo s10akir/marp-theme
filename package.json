@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/s10akir/marp-theme.git",
   "author": "Akira Shinohara <k017c1067@it-neec.jp>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@marp-team/marp-cli": "^0.18.2"
+  }
 }

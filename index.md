@@ -1,11 +1,11 @@
 ---
 marp: true
-theme: moja-teal-a4
+theme: _THEME_
 ---
 
 <!-- _class: cover -->
 
-# marp 'moja-teal' theme
+# marp '_THEME_' theme
 
 ## theme sample slide
 
@@ -24,6 +24,8 @@ theme: OVERWRITE HERE
 ---
 
 ```
+
+---
 
 # Header Level 1
 
