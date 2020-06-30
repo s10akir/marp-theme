@@ -9,6 +9,10 @@
 
 section {
   background-color: #f2f2f2;
+  background-image: url("https://user-images.githubusercontent.com/38117745/86141985-a555af80-bb2d-11ea-8827-49ceb57d79a0.png");
+  background-position: bottom 8% right 3%;
+  background-repeat: no-repeat;
+  background-size: 23%;
   justify-content: normal;
   font-size: 20pt;
   padding: 100px;
