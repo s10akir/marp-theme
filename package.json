@@ -5,7 +5,13 @@
   "repository": "https://github.com/s10akir/marp-theme.git",
   "author": "Akira Shinohara <k017c1067@it-neec.jp>",
   "license": "MIT",
-  "dependencies": {
-    "@marp-team/marp-cli": "^0.18.2"
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.18.2",
+    "husky": "^4.2.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "./tools/build.sh"
+    }
   }
 }
