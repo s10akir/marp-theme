@@ -40,6 +40,7 @@ strong {
 section.cover {
   justify-content: center;
   text-align: center;
+  background-image: url("https://user-images.githubusercontent.com/38117745/86197071-9869a800-bb8f-11ea-9491-ecbf1ef788a4.png");
   background-color: #9bafb5;
 }
 
@@ -59,6 +60,7 @@ section.back-cover {
   text-align:center;
   padding: 20px;
   margin: none;
+  background-image: url("https://user-images.githubusercontent.com/38117745/86197071-9869a800-bb8f-11ea-9491-ecbf1ef788a4.png");
 }
 
 section.back-cover h2 {
